@@ -1,4 +1,4 @@
-# Pureba la aplicacion
+# Pureba la aplicación
 https://fjlespinha.github.io/piano/
 # Empaquetado web
 
